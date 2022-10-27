@@ -15,7 +15,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://twitter.com/kushlendrasingh" target="blank"
+  <a href="[https://twitter.com/kushlendrasingh](https://twitter.com/Kushlendra02)" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
